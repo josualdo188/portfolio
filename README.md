@@ -29,6 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+https://portfolio-josualdo.vercel.app <br>
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
