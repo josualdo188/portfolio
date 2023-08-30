@@ -29,8 +29,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-
+https://josualdo188.github.io/portfolio/
 O DevLinks é um agregador de links para usar como cartão de visitas online.
+
 
 ## 🔖 Layout
 
